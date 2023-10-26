@@ -69,17 +69,11 @@ RAW-BODY:
 #### Example Response
 ```
 {
-    "File": "documents/resume/MariaGonzalezMarketingCoordinatoratSoftwareAgency-GreatPlacetoWorkResume.pdf",
+    "File": "documents/resume/....-Resume.pdf",
     "Match result criteria": "Results -driven and motivated marketing professional with one year of experience and a recent Bachelor of Commerce degree",
     "Query": "which resume would be a good fit for a marketing job?",
     "Reference": {
-        "Content": "P R O F I L E  \nResults -driven and motivated marketing professional with one year of experience and a recent Bachelor of Commerce degree. 
-        Proficient in customer service, \ndigital marketing, analytics, content creation, and SEO optimisation. Skilled in leveraging digital platforms to drive brand awareness,
-        engage target audiences, \nand achieve business objectives. Adaptable to fast -pace d environments, dedicated to continuous learning and growth.
-         Collaborative team player with a positive \nattitude and strong communication skills. I am seeking an entry -level marketing role to contribute 
-         to the success of an organisation and excel in the dyn amic \nmarketing and business industry. 
-          \nM A R I A  \nG O N Z A L E Z  \n043 594 3480  \nmdelosangelesga @gmail.com  \nBondi Beach, Sydney  \nW O R K  E X P E R I E N C E
-            \nMARKETING ASSOCIATE  \nResonate Solutions | North Sydney, Sydney  | April  2023 – Present",
+        "Content": ".....",
         "Page Number": 0
     }
 }
