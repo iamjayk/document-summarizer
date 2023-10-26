@@ -85,4 +85,4 @@ RAW-BODY:
 [huggingface_pipelines](https://python.langchain.com/docs/integrations/llms/huggingface_pipelines)
 ### Second prototype - Summarising .docx files
 - Internally build a function to query the required fields for the output.
-- Return the required datastructure as seen in the example file provided by ed. 
+- Return the required datastructure. 
