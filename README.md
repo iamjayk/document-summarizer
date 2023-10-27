@@ -1,9 +1,6 @@
 # Document summarizing engine
 - ### Query engine for a bunch of resume (.pdf)
 - ### Summarise huge document(s) (.docx) and output into a given datastructure
-> Ideally 2 would be its own thing. Since DD (Dictator Daniel)
-> has been putting immense amount of pressure to demo in a day,
-> it's done in the same class.
 ---
 ## Structure
 > Copy the required documents to their appropriate folders,<br/>
